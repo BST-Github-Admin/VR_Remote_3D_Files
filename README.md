@@ -1,0 +1,1 @@
+These files can be used to 3D print the Bosch Sensortec's VR remote housing.
